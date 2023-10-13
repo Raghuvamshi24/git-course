@@ -3,4 +3,4 @@ Get the user data...
 
 
 
- crate an avatar 
+ create an avatar 
